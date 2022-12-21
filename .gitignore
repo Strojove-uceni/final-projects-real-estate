@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.idea
+*.pyc
+*.h5
+*.tif
+*.tex
+*.png
+*token*
