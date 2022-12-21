@@ -1,6 +1,29 @@
 # Prediction of prices of apartments in Prague
 
->>>>> TODO: Adjust readme for SU2 until 1.1.23. Try https://ngrok.com/ to forward web to internet 
+### Instructions for SU2
+
+Working example url will be provided here from 1.1.23 (because it is temporary). Web will run on my machine and will be forwarded to internet by https://ngrok.com/. Therefore you do not need to install dependencies and create environment. Please do not use web simultaneously on more computers/ browser tabs as it can result in unexpected behaviour.
+
+
+Web interface looks like this
+
+
+![Screenshot from 2022-12-21 11-18-33](https://user-images.githubusercontent.com/65658910/208881956-e89c9af9-3827-42b3-bcca-66d909583c0c.png)
+
+You can use 
+
+* `Predikce pomocí URL` option
+ >> Here please provide url of apartment from Prague from (https://www.sreality.cz/hledani/prodej/byty/praha?strana=1 or bezrealitky.cz)
+   or try whatever link you want it should handle it... 
+   
+* `Predikce pomocí ručně zadaných příznaků`
+ >> Here expand please `Zadej příznaky` block and provide some attributes of apartment. Usable area and location are required.
+ 
+Your result should be similar to this one
+
+
+![Screenshot from 2022-12-21 11-28-09](https://user-images.githubusercontent.com/65658910/208883815-cceb3a81-733c-4f2f-a764-42562008dbbd.png)
+
 
 ### Requirements
 
