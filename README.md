@@ -2,7 +2,7 @@
 
 ### Instructions for SU2
 
-Working example url will be provided here from 1.1.23 (because it is temporary). Web will run on my machine and will be forwarded to internet by https://ngrok.com/. Therefore you do not need to install dependencies and create environment. Please do not use web simultaneously on more computers/ browser tabs as it can result in unexpected behaviour.
+Working example url is here https://8862-95-103-189-152.eu.ngrok.io/ . Web will run on my machine and will be forwarded to internet by https://ngrok.com/. Therefore you do not need to install dependencies and create environment. Please do not use web simultaneously on more computers/ browser tabs as it can result in unexpected behaviour.
 
 
 Web interface looks like this
